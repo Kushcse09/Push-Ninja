@@ -5,9 +5,7 @@
 
 **A blockchain-based slicing game built on Push Chain**
 
-[![Push Chain](https://img.shields.io/badge/PushChain-Testnet-purple)](https://push.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.28-gray)](https://soliditylang.org/)
-[![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas-orange)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+
 
 </div>
 
@@ -53,7 +51,7 @@ Slice fruits, earn points and NFTs, and climb the global leaderboard — all whi
 ### Scoring System
 - **Fruit Slice:** +10 points  
 - **Combo Bonus:** Points × Combo Count  
-- **Missed Slice:** -5 points  
+  
 
 ### NFT Metadata
 Each NFT represents a unique game session containing:
@@ -250,7 +248,7 @@ Or deploy manually:
 
 **Smart Contract Address:** `Coming soon`
 **Network:** Push Chain Testnet
-**Explorer:** [Push Explorer](https://explorer.push.org/testnet)
+
 
 ---
 
