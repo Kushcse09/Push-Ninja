@@ -80,7 +80,7 @@ Each NFT represents a unique game session containing:
    ```bash
    git clone https://github.com/Kushcse09/Push-Ninja.git
    cd Push-Ninja
-````
+
 
 2. **Install dependencies**
 
