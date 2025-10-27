@@ -1,8 +1,4 @@
-Sure — here’s your complete and polished **`README.md`** for **Push Ninja**, all in one copy-ready Markdown cell 👇
 
----
-
-````markdown
 # 🥷 Push Ninja
 
 <div align="center">
