@@ -1,36 +1,47 @@
-Push Ninja 
-Push Ninja is a blockchain-based slicing game inspired by Fruit Ninja, built on the Push Chain. Players slice digital fruits on-chain, earning rewards, NFTs, and points securely through decentralized gameplay.
+🥷 Push Ninja
+Push Ninja is a blockchain-based slicing game inspired by Fruit Ninja, built on the Push Chain.
+Players slice digital fruits on-chain to earn rewards, NFTs, and leaderboard points, all secured through decentralized gameplay.
 
 🚀 Features
 On-chain gameplay powered by Push Chain
 
 Real-time fruit slicing mechanics
 
-NFT-based collectibles and rewards
+NFT-based collectibles and reward system
 
-Player score and leaderboard stored on blockchain
+Global leaderboard stored on-chain
+
+Secure and transparent game interactions
 
 🛠 Tech Stack
-Push Chain (Blockchain layer)
+Blockchain Layer: Push Chain
 
-Solidity (Smart contracts)
+Smart Contracts: Solidity
 
-JavaScript / Web3.js (Frontend integration)
+Frontend Integration: JavaScript, Web3.js
 
-HTML5 Canvas (Game visuals)
+Game Visuals: HTML5 Canvas
 
 🎮 How to Play
-Connect your Push Wallet.
+Connect your Push Wallet to start the game.
 
-Start slicing fruits as they appear on screen.
+Slice fruits as they appear on the screen in real time.
 
-Earn rewards for each successful slice.
+Earn rewards and NFTs for each successful slice.
 
-Compete for top ranks on the global leaderboard.
+Climb the leaderboard and compete for top ranks globally.
 
 🔗 Smart Contract
 Deployed on Push Chain Testnet
-(Contract address will be updated soon)
+
+Contract Address: To be updated soon
+
+🧩 Future Enhancements
+Multiplayer on-chain slicing battles
+
+NFT marketplace for trading in-game assets
+
+Seasonal leaderboards and event-based rewards
 
 📜 License
-This project is open-source under the MIT License.
+This project is open-source and available under the MIT License.
